@@ -1,1 +1,5 @@
-Trabzon Üniversitesi Çarşıbaşı Meslekyüksekokulu Bilgisayar Teknolojisi 2. Sınıfın Görsel Programlama Dersi İçin Hazırlanılan "ARAÇ TEKNİK SERVİSİ" Veritabanı
+Trabzon Üniversitesi
+Çarşıbaşı Meslekyüksekokulu
+Bilgisayar Teknolojisi 2. Sınıf
+Görsel Programlama Dersi İçin Hazırlanılan Veritabanı
+"ARAÇ TEKNİK SERVİSİ"
